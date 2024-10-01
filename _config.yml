@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My webring cause why not
 
 baseurl: /posts # the subpath of your site, e.g. /blog
-url: https://www.standingpad.org/webring
+url: https://www.standingpad.org/
 repository: StandingPadAnimations/webring
 
 # END: You *can* customize the stuff below but you don't need to.
